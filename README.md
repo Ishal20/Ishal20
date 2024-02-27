@@ -1,4 +1,6 @@
 # Halo semua! 
+
+I am editing the README file. Adding some more details about the project description.
  
 Perkenalkan nama saya **Faishal Syams Afif**.<br>
  
